@@ -1,0 +1,1 @@
+# codeigniter-mysql-result-generator
